@@ -19,9 +19,9 @@ body *, body *:before, body *:after {
 	text-shadow: 0 0 0 transparent !important;
 /*
 	Rad mode:
-	-webkit-box-shadow: 0 0 10px rgba(255, 255, 255, 0.2) !important;
-	box-shadow: 0 0 10px rgba(255, 255, 255, 0.2) !important;
 */
+	-webkit-box-shadow: 0 0 5px rgba(255, 255, 255, 0.2) !important;
+	box-shadow: 0 0 5px rgba(255, 255, 255, 0.2) !important;
 }
 img, input[type=image] {
 	outline: 1px solid rgba(255,255,255,0.1) !important;
