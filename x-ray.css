@@ -11,8 +11,8 @@ html, body {
 body *, body *:before, body *:after {
 	-webkit-appearance: none !important;
 	-webkit-border-image: none !important;
-	border-color: rgba(255,255,255,0.1) !important;
-	background: rgba(255,255,255,0.1) !important;
+	border-color: rgba(255, 255, 255, 0.05) !important;
+	background: rgba(255, 255, 255, 0.05) !important;
 	color: transparent !important;
 	-webkit-text-fill-color: transparent !important; 
 	-webkit-text-stroke: 0 transparent !important;
@@ -20,11 +20,11 @@ body *, body *:before, body *:after {
 /*
 	Rad mode:
 */
-	-webkit-box-shadow: 0 0 5px rgba(255, 255, 255, 0.2) !important;
-	box-shadow: 0 0 5px rgba(255, 255, 255, 0.2) !important;
+	-webkit-box-shadow: 0 0 5px rgba(255, 255, 255, 0.05) !important;
+	box-shadow: 0 0 5px rgba(255, 255, 255, 0.05) !important;
 }
 img, input[type=image] {
-	outline: 1px solid rgba(255,255,255,0.1) !important;
+	outline: 1px solid rgba(255, 255, 255, 0.05) !important;
 	-webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0)), to(rgba(0,0,0,0))) !important;
 }
 ::-webkit-input-placeholder {
