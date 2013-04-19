@@ -1,6 +1,9 @@
 html, body {
 	background: black !important;
 }
+iframe {
+	display: none;
+}
 *::-webkit-scrollbar,
 *::-webkit-scrollbar-button,
 *::-webkit-scrollbar-track,
@@ -8,7 +11,7 @@ html, body {
 *::-webkit-scrollbar-thumb,
 *::-webkit-scrollbar-corner,
 *::-webkit-resizer,
-body *, body *:before, body *:after {
+body *, *:before, *:after {
 	-webkit-appearance: none !important;
 	-webkit-border-image: none !important;
 	border-color: rgba(255, 255, 255, 0.05) !important;
