@@ -1,3 +1,1 @@
 A simple stylesheet that helps you see the density of nested HTML elements.
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chromice/x-ray.css/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
